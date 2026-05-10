@@ -156,6 +156,8 @@ These models were used to evaluate potential gains beyond linear methods and to 
 The project demonstrates that:
 
 - Conditioning strongly determines solver reliability in linear regression.  
-- **LSQR** is the most stable method for ill‑conditioned or high‑dimensional problems.  
+- **LSQR** is the most stable method for ill‑conditioned or high‑dimensional problems.
+- Understanding concepts like condition number and overfitting helps us critically evaluate whether a reported trend is robust or just a
+product of the chosen method.
 - Adding geophysical predictors improves explanatory power for earthquake significance.  
-- Nonlinear models require tuning to avoid overfitting and do not outperform the extended linear model in generalization.
+- Nonlinear models can improve training fit but risk overfitting when additional predictors are introduced
