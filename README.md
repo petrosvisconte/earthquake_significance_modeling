@@ -1,5 +1,5 @@
-## Author: Pierre Visconti
-### M441 - Numerical Linear Algebra & Optimization - Montana State University
+### Author: Pierre Visconti
+#### M441 - Numerical Linear Algebra & Optimization - Montana State University
 
 **Disclaimer:** This repository is provided as an academic reference and personal research record.  
 Do not copy or submit this work as your own. 
